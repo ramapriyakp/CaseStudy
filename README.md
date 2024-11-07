@@ -120,7 +120,7 @@ Skills: Python, EDA,keras, CNN,Transfer learning,Computer vision
 
  
 
-News Categorisation: business case    
+# News Categorisation: business case    
 https://github.com/ramapriyakp/CaseStudy/blob/main/12_News.ipynb    
 Analyzed news data in database of News company and categorised them into different categories based on their content.    
 used NLP techniques like Bag of Words and TF-IDF for vectorizing text data.    
@@ -131,7 +131,7 @@ The best model is Naive Bayes with F1 score = 0.9699
 Skills: Python, EDA, NLP,text processing    
 
 
-Taxi Driver Churn : Ensemble Learning    
+# Taxi Driver Churn : Ensemble Learning    
 https://github.com/ramapriyakp/CaseStudy/blob/main/13_taxi.ipynb    
 Analyzed customer data at Taxi company to predict and prevent attrition, increasing customer satisfaction.    
 used KNN Imputation of Missing numeric Values to Work with an imbalanced dataset    
