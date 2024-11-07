@@ -1,44 +1,45 @@
-# CaseStudy
-Case Study  projects
+# Case Study  projects
 
-Retail Analysis using SQL
-Analysed operations data of a prominent global retailer  to gain  insights into the retailers  operations.
-Investigated factors influencing  operations  by analyzing correlations between variables like order status, price, payment and freight performance, customer location, product attributes, and customer reviews.
+# Retail Analysis using SQL
+https://github.com/ramapriyakp/CaseStudy/blob/main/01-retail.pdf
+Analysed operations data of a prominent global retailer  to gain insights into the retailers  operations.
+Investigated factors influencing operations by analyzing correlations between variables like order status, price, payment and freight performance, customer location, product attributes, and customer reviews.
 Analysed sales data by order volumes,revenue and region to  improve revenue.
 Recommended focusing on features like  average time to delivery, identify peak sales season and time adequate stocking and flexible payement options for increased customer satisfaction.
 Skills: SQL, EDA, Data Visualization, Presentation
-https://github.com/ramapriyakp/CaseStudy/blob/main/01-retail.pdf
 
-Media Company Business Case
+
+# Media Company Business Case
+https://github.com/ramapriyakp/CaseStudy/blob/main/02_media.ipynb
 Analysed movies and TV shows of a popular media company to decide type of shows/movies to produce and  grow business in different countries. 
 Investigated the factors influencing content popularity and help grow the business.
 Leveraged popularity scores and actor ratings  to identify shows which can give business growth.
 Recommended strategies  like focusing on popular categories of shows, and geographical distribution  for more revenue.
 Skills: Python, EDA, Data Visualization, Presentation
-https://github.com/ramapriyakp/CaseStudy/blob/main/02_media.ipynb
 
 
-
-
-Fitness Company Business Case
+# Fitness Company Business Case
+https://github.com/ramapriyakp/CaseStudy/blob/main/03_fitness.ipynb
 Analyzed customer data af Multinational fitness company to provide better product recommendations to customers.
 Create profile for each threadmill product  by profiling customer on marital status, usage, income, fitness, miles
 For each treadmill product, constructed two-way contingency tables and computed all conditional and marginal probabilities along with their insights/impact on the business.
 Profiled data on product,customer and gender to provide business insights
 Recommended product based on income and age.
 Skills: Python, EDA, Data Visualization, Presentation
-https://github.com/ramapriyakp/CaseStudy/blob/main/03_fitness.ipynb
 
-Retail Confidence Interval and CLT
+
+# Retail Confidence Interval and CLT
+https://github.com/ramapriyakp/CaseStudy/blob/main/04_Stores.ipynb
 Analysed customer purchase at MNC Retail Store to understand spending habits of men and women.
 Used Central limit theorem to compute confidence intervals of average male and female spends and leverage this to make improvements
 There is no overlap of purchase( mean) CI for males and females.So buying patterns is different.
 Recommeded products to be priced wihin the CI range  since this is a good population parameter.
 Analysed CI with respect to gender and age to provide business insights
 Skills: Python, EDA, Data Visualization, Presentation
-https://github.com/ramapriyakp/CaseStudy/blob/main/04_Stores.ipynb
 
-Mobility service provider - Hypothesis Testing  
+
+# Mobility service provider - Hypothesis Testing  
+https://github.com/ramapriyakp/CaseStudy/blob/main/05_mobility.ipynb
 Anlysed customer data of leading  mobility service provider  to understand factors affecting  demand for shared electric cycles.
 Perform hypothesis tests to understand relationship between factors
 used 2 sample t-test to check effect of working day on no of cycles rented
@@ -47,10 +48,11 @@ used Chi-square test to check if Weather is dependent on the season
 Recommended focusing on features like weather and season to increase ridership.
 Major demand is when natural factors are favourable for riding cycles
 Skills: Python, EDA, Data Visualization, Hypothesis testing
-https://github.com/ramapriyakp/CaseStudy/blob/main/05_mobility.ipynb
 
 
-Logistics - Feature Engineering     
+
+# Logistics - Feature Engineering     
+https://github.com/ramapriyakp/CaseStudy/blob/main/06_Logistics.ipynb
 Anlysed operational data of leading logistics company to build a forecasting model  
 manipulate data create useful features out of raw fields.
 Perform hypothesis tests to understand relationship between factors
@@ -58,13 +60,10 @@ used data aggration technique to obtain higher level features for further analys
 hypothesis test indicated that actual and osrm times differ, they should be minimised for better efficiency.
 Recommended focusing on Metro hubs for futher growing business
 Skills: Python, EDA, Data Visualization, Hypothesis testing
-https://github.com/ramapriyakp/CaseStudy/blob/main/06_Logistics.ipynb
 
 
-
-
-
-Hospitals - Hypothesis Testing      
+# Hospitals - Hypothesis Testing      
+https://github.com/ramapriyakp/CaseStudy/blob/main/07_hospital.ipynb
 Analysed patient data of leading hospital  to know significant variables in predicting  hospitalization.
 Investigated factors influencing hospitalization like viral load,smoking and severity level
 used  t-test to conclude with 95% confidence that hospitalization charges  of smoker is higher  and 
@@ -74,29 +73,31 @@ Recommended people to avoid smoking to lessen hospitalisation
 patients of low severity level 0-2 form 85% of patients so more prvisions sohuld be made for these type of patients 
 Since patients are uniformly distributed across regions. Similar policies should be implemented across regions to maintain this balance
  Skills: Python, EDA, Data Visualization, Hypothesis testing
-https://github.com/ramapriyakp/CaseStudy/blob/main/07_hospital.ipynb
 
 
-Education - Linear Regression      
+# Education - Linear Regression    
+https://github.com/ramapriyakp/CaseStudy/blob/main/08_Education.ipynb
 Help an Education Institute  build a model which can predict probability of getting into IVY league college.
 Analyzed student data to understand  important factors in graduate admissions and how these factors are interrelated among themselves
 used Linear Regression model to predict chance of admission.
 Recommended better student scores to improve chances of admission as they are correlated.
 Removing multi collinearity  features with high VIF can improve model accuracy.CGPA has the highest importance. University Rating , Research experienc, SOP strength have no statistical importance in predicting the chance of admission.
 Skills: Python, EDA, Data Visualization, Hypothesis testing
-https://github.com/ramapriyakp/CaseStudy/blob/main/08_Education.ipynb
 
 
-loan approval Logistic Regression     
+
+# loan approval Logistic Regression     
+https://github.com/ramapriyakp/CaseStudy/blob/main/09_loan.ipynb
 Help an Education Institute  build a model which can predict probability of getting into IVY league Analysed loan data at online platform to predict probability if a credit line should be extended to customer. 
 Investigated factors incfluencing loan approval to customer and analyzing correlations between variables 
 used Logistic regression model for doing prediction Since this a classification problem 
 Used feature importance to determine the the most useful features
 Recommended choosing models with high precision to keep false positives low.
 Skills: Python, EDA, Data Visualization, classfification metrics
-https://github.com/ramapriyakp/CaseStudy/blob/main/09_loan.ipynb
 
-Delivery Company : Neural Networks Regression
+
+# Delivery Company : Neural Networks Regression
+https://github.com/ramapriyakp/CaseStudy/blob/main/10_delivery.ipynb
 Analysed delivery data of leading  Intra-City Logistics  train a regression model for delivery time
 estimation.
 Investigated factors influencing delivery time, created  new features like hour of day and day of the week for deeper understanding
@@ -104,9 +105,10 @@ used Neural Networks Regression modelwith relu activation & Adam optimizer for d
 Neural Network regressor can capture capture non-linear relationship between input and output
 it automatically learn features  and  generalize well to unseen data
 Skills: Python, EDA, Data Visualization, neural network design,tensorflow 
-https://github.com/ramapriyakp/CaseStudy/blob/main/10_delivery.ipynb
 
-Supply Chain company : CV Classification
+
+# Supply Chain company : CV Classification
+https://github.com/ramapriyakp/CaseStudy/blob/main/11_supply.ipynb
 Processed data of fresh produce supply chain company to develop a vegetable image classifier.
 Used CNN for image classification task.
 Used callbacks like EarlyStopping to handle overfitting
@@ -115,7 +117,7 @@ Leveraged pre-trained for better accuracy using tranfer learnig technique.
 Best Model has Test Accuracy: 93.73%
 using Batch Normalization,Dropout regulariztion mentods to boost performance
 Skills: Python, EDA,keras, CNN,Transfer learning,Computer vision
-https://github.com/ramapriyakp/CaseStudy/blob/main/11_supply.ipynb
+
  
 
 News Categorisation: business case
@@ -138,7 +140,8 @@ Compared model performance using Confusion Matrix and Classification Report.
  Skills: Python, EDA, ensemble modelling
 https://github.com/ramapriyakp/CaseStudy/blob/main/13_taxi.ipynb
 
-Tech-versity : Clustering in Learner Profiling
+# Tech-versity : Clustering in Learner Profiling
+https://github.com/ramapriyakp/CaseStudy/blob/main/13_taxi.ipynb
 Analyzed learner dataset to profile the best companies and job positions from tech-versity database
 clustered  data at tech-versity to group learners with similar profiles, aiding in delivering a
 more personalized learning journey.
@@ -146,4 +149,4 @@ used K-means and Hierarchical Clustering to reveal hidden patterns within data.
 indentified top 3 roles and companies using clustering analysis.
 recommended  tailored content and provide specialized mentorship to customizing learning experience, increasing retention and satisfaction.
  Skills: Python, EDA, feature engineering, data pre-processing, and unsupervised learning.
-https://github.com/ramapriyakp/CaseStudy/blob/main/13_taxi.ipynb
+
