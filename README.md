@@ -1,39 +1,39 @@
 
-### Project Portfolio Summary
+### 📊 Data Science Portfolio
 
-| # | Project Title | Domain | Core Technical Skills | Modeling Algorithm |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | Retail Analysis | E-commerce | SQL, EDA, Data Visualization | - |
-| 2 | Media Company Strategy | Media & Entertainment | Python, EDA, Data Visualization | - |
-| 3 | Fitness Product Recommendation | Retail / Fitness | Python, EDA, Data Visualization, Probability | - |
-| 4 | Retail Spending Analysis | E-commerce | Python, EDA, **CLT, Confidence Intervals** | - |
-| 5 | Mobility Demand Analysis | Transportation / Mobility | Python, EDA, **Hypothesis Testing (t-test, ANOVA, Chi-square)** | - |
-| 6 | Logistics Forecasting | Logistics & Supply Chain | Python, EDA, **Feature Engineering, Hypothesis Testing** | - |
-| 7 | Hospitalization Analysis | Healthcare | Python, EDA, **Hypothesis Testing (t-test, ANOVA)** | - |
-| 8 | Graduate Admissions Predictor | Education | Python, EDA, **Linear Regression**, VIF | Linear Regression |
-| 9 | Loan Approval Classifier | FinTech / Lending | Python, EDA, **Classification Metrics** | Logistic Regression |
-| 10 | Delivery Time Estimator | Logistics & Supply Chain | Python, EDA, **Feature Engineering** | **Neural Networks (TensorFlow), Regression** |
-| 11 | Vegetable Image Classifier | Supply Chain / AgriTech | Python, EDA | **CNN, Transfer Learning, Keras, Regularization (Dropout, BatchNorm)** |
-| 12 | News Article Categorization | Media / NLP | Python, EDA, **NLP (BoW, TF-IDF, Tokenization, Lemmatization)** | Naive Bayes, Model Evaluation |
-| 13 | Customer Churn Prediction | Transportation / SaaS | Python, EDA, **Handling Imbalanced Data (KNN Impute, SMOTE)** | **Ensemble Models (Random Forest, AdaBoost)** |
-| 14 | Learner Profiling | EdTech / HR | Python, EDA, **Feature Engineering** | **Unsupervised Learning (K-means, Hierarchical Clustering)** |
-| 15 | Medical Inventory Optimization | Healthcare / Inventory | **Power BI, Dashboarding**, CRISP-MLQ Methodology | - |
+A collection of projects demonstrating expertise in extracting insights from data and building machine learning models.
 
-### Skills Taxonomy
+| # | Project | Domain | Description | Technologies Used |
+| :-- | :--- | :--- | :--- | :--- |
+| 1 | [Retail Analysis](https://github.com/ramapriyakp/CaseStudy/blob/main/01-retail.pdf) | E-commerce | Analyzed global retailer data to derive insights on sales, operations, and customer behavior to improve revenue. | `SQL` `EDA` `Data Visualization` |
+| 2 | [Media Company Strategy](https://github.com/ramapriyakp/CaseStudy/blob/main/02_media.ipynb) | Media & Entertainment | Analyzed content data to provide strategic recommendations for production and global business growth. | `Python` `Pandas` `Matplotlib` `Seaborn` |
+| 3 | [Fitness Product Recommendation](https://github.com/ramapriyakp/CaseStudy/blob/main/03_fitness.ipynb) | Retail | Analyzed customer demographics and behavior to build a product recommendation system. | `Python` `EDA` `Probability` |
+| 4 | [Retail Spending Analysis](https://github.com/ramapriyakp/CaseStudy/blob/main/04_Stores.ipynb) | E-commerce | Applied statistical inference (CLT, Confidence Intervals) to understand customer spending habits. | `Python` `Statistics` `NumPy` `SciPy` |
+| 5 | [Mobility Demand Analysis](https://github.com/ramapriyakp/CaseStudy/blob/main/05_mobility.ipynb) | Transportation | Conducted hypothesis testing to understand factors affecting demand for shared electric cycles. | `Python` `Hypothesis Testing` `ANOVA` `Chi-square` |
+| 6 | [Logistics Forecasting](https://github.com/ramapriyakp/CaseStudy/blob/main/06_Logistics.ipynb) | Supply Chain | Performed feature engineering and hypothesis testing to build a foundation for a forecasting model. | `Python` `Feature Engineering` `Hypothesis Testing` |
+| 7 | [Hospitalization Analysis](https://github.com/ramapriyakp/CaseStudy/blob/main/07_hospital.ipynb) | Healthcare | Identified key factors influencing patient hospitalization through statistical testing. | `Python` `t-test` `ANOVA` `EDA` |
+| 8 | [Graduate Admissions Predictor](https://github.com/ramapriyakp/CaseStudy/blob/main/08_Education.ipynb) | Education | Built a linear regression model to predict admission chances into Ivy League colleges. | `Python` `Linear Regression` `Statsmodels` `VIF` |
+| 9 | [Loan Approval Classifier](https://github.com/ramapriyakp/CaseStudy/blob/main/09_loan.ipynb) | FinTech | Built a logistic regression model to predict loan approval probability. | `Python` `Logistic Regression` `Scikit-learn` `Classification Metrics` |
+| 10 | [Delivery Time Estimator](https://github.com/ramapriyakp/CaseStudy/blob/main/10_delivery.ipynb) | Logistics | Designed and trained a neural network regression model to estimate delivery times. | `Python` `TensorFlow` `Keras` `Neural Networks` |
+| 11 | [Vegetable Image Classifier](https://github.com/ramapriyakp/CaseStudy/blob/main/11_supply.ipynb) | AgriTech / CV | Developed a high-accuracy CNN model using transfer learning for image classification. | `Python` `CNN` `Transfer Learning` `Keras` `TensorBoard` |
+| 12 | [News Article Categorization](https://github.com/ramapriyakp/CaseStudy/blob/main/12_News.ipynb) | NLP | Built an NLP pipeline to categorize news articles using TF-IDF and Naive Bayes. | `Python` `NLP` `TF-IDF` `Naive Bayes` `NLTK` |
+| 13 | [Customer Churn Prediction](https://github.com/ramapriyakp/CaseStudy/blob/main/13_taxi.ipynb) | SaaS | Built ensemble models to predict customer churn and implemented strategies to handle imbalanced data. | `Python` `Ensemble Methods` `Random Forest` `AdaBoost` `SMOTE` |
+| 14 | [Learner Profiling](https://github.com/ramapriyakp/CaseStudy/blob/main/13_taxi.ipynb) | EdTech | Used unsupervised learning (K-means, Hierarchical Clustering) to segment learners for a personalized experience. | `Python` `K-means` `Clustering` `Unsupervised Learning` |
+| 15 | [Medical Inventory Optimization](https://github.com/ramapriyakp/CaseStudy/blob/main/Medical_Inventory.ipynb) | Healthcare | Optimized inventory management using the CRISP-MLQ methodology and built an interactive Power BI dashboard. | `Power BI` `Dashboard` `CRISP-MLQ` `Data Analysis` |
 
-| Category | Skills |
-| :--- | :--- |
-| **Programming & Databases** | Python, SQL |
-| **Data Analysis & Visualization** | Exploratory Data Analysis (EDA), Data Visualization, Power BI, Dashboarding |
-| **Statistics & Hypothesis Testing** | Probability, Central Limit Theorem (CLT), Confidence Intervals, **t-test, ANOVA, Chi-square test** |
-| **Machine Learning (Supervised)** | **Linear Regression, Logistic Regression**, Naive Bayes, **Ensemble Methods (Random Forest, AdaBoost)** |
-| **Machine Learning (Unsupervised)** | **K-means Clustering, Hierarchical Clustering** |
-| **Deep Learning** | **Neural Networks, CNN, TensorFlow, Keras, Transfer Learning** |
-| **Natural Language Processing (NLP)** | **Text Processing, Tokenization, Lemmatization, Bag-of-Words (BoW), TF-IDF** |
-| **Data Preprocessing & Engineering** | **Feature Engineering, Handling Imbalanced Data (SMOTE)** |
-| **Methodology & Deployment** | CRISP-MLQ, Model Evaluation, **Regularization (Dropout, Batch Normalization)** |
+---
 
+### 🛠️ Technical Skills
 
+**Programming & Databases:** `Python` `SQL`
+
+**Machine Learning:** `Linear Regression` `Logistic Regression` `Ensemble Methods` (Random Forest, AdaBoost) `Neural Networks` `CNN` `Transfer Learning` `Clustering` (K-means) `Hypothesis Testing` `Statistical Inference`
+
+**Natural Language Processing (NLP):** `TF-IDF` `Bag-of-Words` `Text Preprocessing` (Tokenization, Lemmatization)
+
+**Data Analysis & Visualization:** `Exploratory Data Analysis (EDA)` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Dashboarding`
+
+**Tools & Libraries:** `Scikit-learn` `TensorFlow` `Keras` `Statsmodels` `SciPy` `NLTK` `Jupyter Notebook`
 
 
 
