@@ -19,7 +19,8 @@ A collection of projects demonstrating expertise in extracting insights from dat
 | 12 | [News Article Categorization](https://github.com/ramapriyakp/CaseStudy/blob/main/12_News.ipynb) | NLP | Built an NLP pipeline to categorize news articles using TF-IDF and Naive Bayes. | `Python` `NLP` `TF-IDF` `Naive Bayes` `NLTK` |
 | 13 | [Customer Churn Prediction](https://github.com/ramapriyakp/CaseStudy/blob/main/13_taxi.ipynb) | SaaS | Built ensemble models to predict customer churn and implemented strategies to handle imbalanced data. | `Python` `Ensemble Methods` `Random Forest` `AdaBoost` `SMOTE` |
 | 14 | [Learner Profiling](https://github.com/ramapriyakp/CaseStudy/blob/main/13_taxi.ipynb) | EdTech | Used unsupervised learning (K-means, Hierarchical Clustering) to segment learners for a personalized experience. | `Python` `K-means` `Clustering` `Unsupervised Learning` |
-| 15 | [Medical Inventory Optimization](https://github.com/ramapriyakp/CaseStudy/blob/main/Medical_Inventory.ipynb) | Healthcare | Optimized inventory management using the CRISP-MLQ methodology and built an interactive Power BI dashboard. | `Power BI` `Dashboard` `CRISP-MLQ` `Data Analysis` |
+| 15 | [NYC traffic Analysis](https://github.com/ramapriyakp/CaseStudy/blob/main/15_NYC.ipynb) | Public Sector / Analytics | Analyzed NYC traffic   data to identify major complaint types, temporal trends, and spatial patterns to improve public service efficiency. | `Python` `Pandas` `Matplotlib` `Seaborn`  `Data Visualization` `Time Series  Analysis` |
+| 16 | [Medical Inventory Optimization](https://github.com/ramapriyakp/CaseStudy/blob/main/Medical_Inventory.ipynb) | Healthcare | Optimized inventory management using the CRISP-MLQ methodology and built an interactive Power BI dashboard. | `Power BI` `Dashboard` `CRISP-MLQ` `Data Analysis` |
 
 ---
 
