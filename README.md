@@ -30,7 +30,7 @@ Recommended product based on income and age.
 
 
 # Retail Confidence Interval and CLT    
-## Skills: Python, EDA, Data Visualization, Presentation**        
+ **Skills: Python, EDA, Data Visualization, Presentation**        
 https://github.com/ramapriyakp/CaseStudy/blob/main/04_Stores.ipynb    
 Analysed customer purchase at MNC Retail Store to understand spending habits of men and women.    
 Used Central limit theorem to compute confidence intervals of average male and female spends and leverage this to make improvements    
@@ -40,7 +40,7 @@ Analysed CI with respect to gender and age to provide business insights
 
 
 # Mobility service provider - Hypothesis Testing      
-## Skills: Python, EDA, Data Visualization, Hypothesis testing**        
+ **Skills: Python, EDA, Data Visualization, Hypothesis testing**        
 https://github.com/ramapriyakp/CaseStudy/blob/main/05_mobility.ipynb    
 Anlysed customer data of leading  mobility service provider  to understand factors affecting  demand for shared electric cycles.    
 Perform hypothesis tests to understand relationship between factors    
@@ -53,7 +53,7 @@ Major demand is when natural factors are favourable for riding cycles
 
 
 # Logistics - Feature Engineering     
-## Skills: Python, EDA, Data Visualization, Hypothesis testing**        
+ **Skills: Python, EDA, Data Visualization, Hypothesis testing**        
 https://github.com/ramapriyakp/CaseStudy/blob/main/06_Logistics.ipynb    
 Anlysed operational data of leading logistics company to build a forecasting model      
 manipulate data create useful features out of raw fields.    
@@ -64,7 +64,7 @@ Recommended focusing on Metro hubs for futher growing business
 
 
 # Hospitals - Hypothesis Testing      
-# Skills: Python, EDA, Data Visualization, Hypothesis testing**    
+**Skills: Python, EDA, Data Visualization, Hypothesis testing**    
 https://github.com/ramapriyakp/CaseStudy/blob/main/07_hospital.ipynb    
 Analysed patient data of leading hospital  to know significant variables in predicting  hospitalization.    
 Investigated factors influencing hospitalization like viral load,smoking and severity level    
@@ -77,7 +77,7 @@ Since patients are uniformly distributed across regions. Similar policies should
 
 
 # Education - Linear Regression    
-## Skills: Python, EDA, Data Visualization, Hypothesis testing**        
+ **Skills: Python, EDA, Data Visualization, Hypothesis testing**        
 https://github.com/ramapriyakp/CaseStudy/blob/main/08_Education.ipynb    
 Help an Education Institute  build a model which can predict probability of getting into IVY league college.    
 Analyzed student data to understand  important factors in graduate admissions and how these factors are interrelated among themselves    
@@ -88,7 +88,7 @@ Removing multi collinearity  features with high VIF can improve model accuracy.C
 
 
 # loan approval Logistic Regression     
-## Skills: Python, EDA, Data Visualization, classfification metrics**        
+ **Skills: Python, EDA, Data Visualization, classfification metrics**        
 https://github.com/ramapriyakp/CaseStudy/blob/main/09_loan.ipynb    
 Help an Education Institute  build a model which can predict probability of getting into IVY league Analysed loan data at online platform to predict probability if a credit line should be extended to customer.     
 Investigated factors incfluencing loan approval to customer and analyzing correlations between variables     
@@ -98,7 +98,7 @@ Recommended choosing models with high precision to keep false positives low.
 
 
 # Delivery Company : Neural Networks Regression    
-## Skills: Python, EDA, Data Visualization, neural network design,tensorflow**         
+ **Skills: Python, EDA, Data Visualization, neural network design,tensorflow**         
 https://github.com/ramapriyakp/CaseStudy/blob/main/10_delivery.ipynb    
 Analysed delivery data of leading  Intra-City Logistics  train a regression model for delivery time
 estimation.    
@@ -144,7 +144,7 @@ Compared model performance using Confusion Matrix and Classification Report.
 
 
 # Tech-versity : Clustering in Learner Profiling    
-## Skills:  K-means and Hierarchical Clustering, Unsupervised     
+ **Skills:  K-means and Hierarchical Clustering, Unsupervised**          
 https://github.com/ramapriyakp/CaseStudy/blob/main/13_taxi.ipynb    
 Analyzed learner dataset to profile the best companies and job positions from tech-versity database    
 clustered  data at tech-versity to group learners with similar profiles, aiding in delivering a
