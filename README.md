@@ -1,7 +1,7 @@
 # Case Study  projects
 
 # Retail Analysis using SQL
-## Skills: SQL, EDA, Data Visualization, Presentation    
+**Skills: SQL, EDA, Data Visualization, Presentation**
 https://github.com/ramapriyakp/CaseStudy/blob/main/01-retail.pdf   
 Analysed operations data of a prominent global retailer  to gain insights into the retailers  operations.    
 Investigated factors influencing operations by analyzing correlations between variables like order status, price, payment and freight performance, customer location, product attributes, and customer reviews.   
@@ -10,7 +10,7 @@ Recommended focusing on features like  average time to delivery, identify peak s
 ********************************************************************************************************************************
  
 # Media Company Business Case    
-## Skills: Python, EDA, Data Visualization, Presentation    
+**Skills: Python, EDA, Data Visualization, Presentation**
 https://github.com/ramapriyakp/CaseStudy/blob/main/02_media.ipynb    
 Analysed movies and TV shows of a popular media company to decide type of shows/movies to produce and  grow business in different countries.     
 Investigated the factors influencing content popularity and help grow the business.    
@@ -20,7 +20,7 @@ Recommended strategies  like focusing on popular categories of shows, and geogra
 
 
 # Fitness Company Business Case    
-## Skills: Python, EDA, Data Visualization, Presentation    
+**Skills: Python, EDA, Data Visualization, Presentation**  
 https://github.com/ramapriyakp/CaseStudy/blob/main/03_fitness.ipynb    
 Analyzed customer data af Multinational fitness company to provide better product recommendations to customers.    
 Create profile for each threadmill product  by profiling customer on marital status, usage, income, fitness, miles    
