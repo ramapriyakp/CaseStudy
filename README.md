@@ -7,8 +7,8 @@ Analysed operations data of a prominent global retailer  to gain insights into t
 Investigated factors influencing operations by analyzing correlations between variables like order status, price, payment and freight performance, customer location, product attributes, and customer reviews.   
 Analysed sales data by order volumes,revenue and region to  improve revenue.   
 Recommended focusing on features like  average time to delivery, identify peak sales season and time adequate stocking and flexible payement options for increased customer satisfaction.   
-
-
+********************************************************************************************************************************
+ 
 # Media Company Business Case    
 ## Skills: Python, EDA, Data Visualization, Presentation    
 https://github.com/ramapriyakp/CaseStudy/blob/main/02_media.ipynb    
@@ -16,6 +16,7 @@ Analysed movies and TV shows of a popular media company to decide type of shows/
 Investigated the factors influencing content popularity and help grow the business.    
 Leveraged popularity scores and actor ratings  to identify shows which can give business growth.    
 Recommended strategies  like focusing on popular categories of shows, and geographical distribution  for more revenue.    
+********************************************************************************************************************************
 
 
 # Fitness Company Business Case    
