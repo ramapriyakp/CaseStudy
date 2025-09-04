@@ -154,3 +154,12 @@ indentified top 3 roles and companies using clustering analysis.
 recommended  tailored content and provide specialized mentorship to customizing learning experience, increasing retention and satisfaction.    
  Skills: Python, EDA, feature engineering, data pre-processing, and unsupervised learning.    
 ********************************************************************************************************************************
+
+# Medical Inventory Optimisation
+ **Skills:  powerbi,CRISP-MLQ ,Dashboard**          
+https://github.com/ramapriyakp/CaseStudy/blob/main/Medical_Inventory.ipynb
+Optimized medical inventory management by applying the CRISP-MLQ methodology to reduce bounce
+rates and drive revenue growth.
+Developed and implemented interactive Power BI dashboards for project analysis, enabling identification of
+high-performing departments, specializations, and drugs, which contributed to significant improvements in
+customer engagement and sales performance
