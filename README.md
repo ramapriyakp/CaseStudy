@@ -1,3 +1,43 @@
+
+### Project Portfolio Summary
+
+| # | Project Title | Domain | Core Technical Skills | Modeling Algorithm |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Retail Analysis | E-commerce | SQL, EDA, Data Visualization | - |
+| 2 | Media Company Strategy | Media & Entertainment | Python, EDA, Data Visualization | - |
+| 3 | Fitness Product Recommendation | Retail / Fitness | Python, EDA, Data Visualization, Probability | - |
+| 4 | Retail Spending Analysis | E-commerce | Python, EDA, **CLT, Confidence Intervals** | - |
+| 5 | Mobility Demand Analysis | Transportation / Mobility | Python, EDA, **Hypothesis Testing (t-test, ANOVA, Chi-square)** | - |
+| 6 | Logistics Forecasting | Logistics & Supply Chain | Python, EDA, **Feature Engineering, Hypothesis Testing** | - |
+| 7 | Hospitalization Analysis | Healthcare | Python, EDA, **Hypothesis Testing (t-test, ANOVA)** | - |
+| 8 | Graduate Admissions Predictor | Education | Python, EDA, **Linear Regression**, VIF | Linear Regression |
+| 9 | Loan Approval Classifier | FinTech / Lending | Python, EDA, **Classification Metrics** | Logistic Regression |
+| 10 | Delivery Time Estimator | Logistics & Supply Chain | Python, EDA, **Feature Engineering** | **Neural Networks (TensorFlow), Regression** |
+| 11 | Vegetable Image Classifier | Supply Chain / AgriTech | Python, EDA | **CNN, Transfer Learning, Keras, Regularization (Dropout, BatchNorm)** |
+| 12 | News Article Categorization | Media / NLP | Python, EDA, **NLP (BoW, TF-IDF, Tokenization, Lemmatization)** | Naive Bayes, Model Evaluation |
+| 13 | Customer Churn Prediction | Transportation / SaaS | Python, EDA, **Handling Imbalanced Data (KNN Impute, SMOTE)** | **Ensemble Models (Random Forest, AdaBoost)** |
+| 14 | Learner Profiling | EdTech / HR | Python, EDA, **Feature Engineering** | **Unsupervised Learning (K-means, Hierarchical Clustering)** |
+| 15 | Medical Inventory Optimization | Healthcare / Inventory | **Power BI, Dashboarding**, CRISP-MLQ Methodology | - |
+
+### Skills Taxonomy
+
+| Category | Skills |
+| :--- | :--- |
+| **Programming & Databases** | Python, SQL |
+| **Data Analysis & Visualization** | Exploratory Data Analysis (EDA), Data Visualization, Power BI, Dashboarding |
+| **Statistics & Hypothesis Testing** | Probability, Central Limit Theorem (CLT), Confidence Intervals, **t-test, ANOVA, Chi-square test** |
+| **Machine Learning (Supervised)** | **Linear Regression, Logistic Regression**, Naive Bayes, **Ensemble Methods (Random Forest, AdaBoost)** |
+| **Machine Learning (Unsupervised)** | **K-means Clustering, Hierarchical Clustering** |
+| **Deep Learning** | **Neural Networks, CNN, TensorFlow, Keras, Transfer Learning** |
+| **Natural Language Processing (NLP)** | **Text Processing, Tokenization, Lemmatization, Bag-of-Words (BoW), TF-IDF** |
+| **Data Preprocessing & Engineering** | **Feature Engineering, Handling Imbalanced Data (SMOTE)** |
+| **Methodology & Deployment** | CRISP-MLQ, Model Evaluation, **Regularization (Dropout, Batch Normalization)** |
+
+
+
+
+
+
 # Case Study  projects
 ********************************************************************************************************************************
 # Retail Analysis using SQL
