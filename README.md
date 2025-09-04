@@ -1,5 +1,5 @@
 # Case Study  projects
-
+********************************************************************************************************************************
 # Retail Analysis using SQL
 **Skills: SQL, EDA, Data Visualization, Presentation**   
 https://github.com/ramapriyakp/CaseStudy/blob/main/01-retail.pdf   
@@ -28,7 +28,7 @@ For each treadmill product, constructed two-way contingency tables and computed 
 Profiled data on product,customer and gender to provide business insights    
 Recommended product based on income and age.    
 
-
+********************************************************************************************************************************
 # Retail Confidence Interval and CLT    
  **Skills: Python, EDA, Data Visualization, Presentation**        
 https://github.com/ramapriyakp/CaseStudy/blob/main/04_Stores.ipynb    
@@ -38,7 +38,7 @@ There is no overlap of purchase( mean) CI for males and females.So buying patter
 Recommeded products to be priced wihin the CI range  since this is a good population parameter.    
 Analysed CI with respect to gender and age to provide business insights    
 
-
+********************************************************************************************************************************
 # Mobility service provider - Hypothesis Testing      
  **Skills: Python, EDA, Data Visualization, Hypothesis testing**        
 https://github.com/ramapriyakp/CaseStudy/blob/main/05_mobility.ipynb    
@@ -50,7 +50,7 @@ used Chi-square test to check if Weather is dependent on the season
 Recommended focusing on features like weather and season to increase ridership.    
 Major demand is when natural factors are favourable for riding cycles    
 
-
+********************************************************************************************************************************
 
 # Logistics - Feature Engineering     
  **Skills: Python, EDA, Data Visualization, Hypothesis testing**        
@@ -61,7 +61,7 @@ Perform hypothesis tests to understand relationship between factors
 used data aggration technique to obtain higher level features for further analysis     
 hypothesis test indicated that actual and osrm times differ, they should be minimised for better efficiency.    
 Recommended focusing on Metro hubs for futher growing business    
-
+********************************************************************************************************************************
 
 # Hospitals - Hypothesis Testing      
 **Skills: Python, EDA, Data Visualization, Hypothesis testing**    
@@ -74,7 +74,7 @@ used ANOVA test to conclude mean "viral load" for 'female' are equal for severit
 Recommended people to avoid smoking to lessen hospitalisation    
 patients of low severity level 0-2 form 85% of patients so more prvisions sohuld be made for these type of patients     
 Since patients are uniformly distributed across regions. Similar policies should be implemented across regions to maintain this balance    
-
+********************************************************************************************************************************
 
 # Education - Linear Regression    
  **Skills: Python, EDA, Data Visualization, Hypothesis testing**        
@@ -85,7 +85,7 @@ used Linear Regression model to predict chance of admission.
 Recommended better student scores to improve chances of admission as they are correlated.    
 Removing multi collinearity  features with high VIF can improve model accuracy.CGPA has the highest importance. University Rating , Research experienc, SOP strength have no statistical importance in predicting the chance of admission.    
 
-
+********************************************************************************************************************************
 
 # loan approval Logistic Regression     
  **Skills: Python, EDA, Data Visualization, classfification metrics**        
@@ -95,7 +95,7 @@ Investigated factors incfluencing loan approval to customer and analyzing correl
 used Logistic regression model for doing prediction Since this a classification problem     
 Used feature importance to determine the the most useful features    
 Recommended choosing models with high precision to keep false positives low.    
-
+********************************************************************************************************************************
 
 # Delivery Company : Neural Networks Regression    
  **Skills: Python, EDA, Data Visualization, neural network design,tensorflow**         
@@ -107,7 +107,7 @@ used Neural Networks Regression modelwith relu activation & Adam optimizer for d
 Neural Network regressor can capture capture non-linear relationship between input and output
 it automatically learn features  and  generalize well to unseen data    
 
-
+********************************************************************************************************************************
 # Supply Chain company : CV Classification    
  **Skills: Python, EDA,keras, CNN,Transfer learning,Computer vision**        
 https://github.com/ramapriyakp/CaseStudy/blob/main/11_supply.ipynb    
@@ -118,7 +118,7 @@ used ModelCheckpoint and  TensorBoard callback to fine tune and monitor model tr
 Leveraged pre-trained for better accuracy using tranfer learnig technique.    
 Best Model has Test Accuracy: 93.73%    
 using Batch Normalization,Dropout regulariztion mentods to boost performance    
-
+********************************************************************************************************************************
  
 
 # News Categorisation: business case    
@@ -130,7 +130,7 @@ TF-IDF is more efficient since it gives importance to rare words and ignores com
 processed text data by removing stopwords, word tokenization and lemmatization.    
 Compared model performance using Confusion Matrix and Classification Report.    
 The best model is Naive Bayes with F1 score = 0.9699    
-
+********************************************************************************************************************************
 
 # Taxi Driver Churn : Ensemble Learning    
  **Skills: Python, EDA, ensemble modelling**        
@@ -142,7 +142,7 @@ created aggregate features  for better problem modelling.
 used ensemble models like random forest, AdaBoostClassifier for better performance    
 Compared model performance using Confusion Matrix and Classification Report.    
 
-
+********************************************************************************************************************************
 # Tech-versity : Clustering in Learner Profiling    
  **Skills:  K-means and Hierarchical Clustering, Unsupervised**          
 https://github.com/ramapriyakp/CaseStudy/blob/main/13_taxi.ipynb    
@@ -153,4 +153,4 @@ used K-means and Hierarchical Clustering to reveal hidden patterns within data.
 indentified top 3 roles and companies using clustering analysis.    
 recommended  tailored content and provide specialized mentorship to customizing learning experience, increasing retention and satisfaction.    
  Skills: Python, EDA, feature engineering, data pre-processing, and unsupervised learning.    
-
+********************************************************************************************************************************
